@@ -387,6 +387,9 @@ h2 {
 .work p {
 	color: var(--soft);
 }
+.work a + a {
+	margin-left: 18px;
+}
 .work a {
 	display: inline-block;
 	margin-top: 14px;
